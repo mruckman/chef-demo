@@ -17,7 +17,7 @@ Install Chef (as root)
 $cd /tmp
 $curl -L https://www.opscode.com/chef/install.sh | sudo bash
 
-Run "Verification Steps:"
+Run "Verification Steps:" Pre-install
 
 Check out this repo to the /var/chef directory
 $sudo git clone https://github.com/mruckman/chef-demo.git /var/chef
@@ -25,3 +25,5 @@ $sudo git clone https://github.com/mruckman/chef-demo.git /var/chef
 Run Chef:
 $cd /var/chef
 $sudo chef-solo -j /var/chef/web.json
+
+Run "Verification Steps:" Post-Install
