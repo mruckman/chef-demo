@@ -11,7 +11,7 @@ $curl -I http://localhost:8080
 -- BOOTSTRAP WITH CHEF-SOLO ---
 
 Install Git
-sudo yum install git
+$sudo yum install git
 
 Install Chef (as root)
 $cd /tmp
