@@ -1,5 +1,5 @@
 = DESCRIPTION:
-Installs Tomcat 7.0.26 using Apache's binaries downloaded from official website.
+Installs Tomcat 7.0.41 using Apache's binaries downloaded from official website.
 = REQUIREMENTS:
 Require JRE
 = ATTRIBUTES:
